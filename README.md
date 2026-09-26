@@ -1,8 +1,8 @@
-# CH50 Complement Assay Analysis
+CH50 Complement Assay Analysis
 
-## Quantitative Analysis of CH50 Complement Hemolytic Assay Using the Von Krogh Method
+Quantitative Analysis of CH50 Complement Hemolytic Assay Using the Von Krogh Method
 
-### Overview
+ Overview
 
 The **CH50 (50% complement hemolytic) assay** is a functional assay used to evaluate the overall hemolytic activity of the classical complement pathway.
 
@@ -12,7 +12,7 @@ The **CH50 value** represents the serum dilution producing approximately **50% h
 
 This project demonstrates a reproducible Python workflow for analyzing serial-dilution CH50 assay data and calculating CH50 values using the **Von Krogh mathematical method**.
 
-> **Important:** All data in this repository are synthetic and created for educational and portfolio purposes. They are not patient data or real laboratory results.
+> Important: All data in this repository are synthetic and created for educational and portfolio purposes. They are not patient data or real laboratory results.
 
 ---
 
@@ -26,13 +26,13 @@ The complement system is an important component of innate immunity and contribut
 - Pathogen elimination
 - Membrane attack complex formation
 
-The **classical complement pathway** can be activated following recognition of antibody-antigen complexes.
+The classical complement pathway** can be activated following recognition of antibody-antigen complexes.
 
 The functional CH50 assay evaluates the ability of serum complement components to produce hemolysis of antibody-sensitized erythrocytes.
 
 The basic experimental concept is:
 
-```text
+text
 Serum
   │
   ▼
